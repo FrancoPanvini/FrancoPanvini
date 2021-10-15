@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **francopanvini@gmail.com**
 
-- I'm fluent in 🇪🇸 Spanish UK English
+- 🌎 I'm fluent in Spanish & English
 
 
 
