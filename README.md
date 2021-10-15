@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **francopanvini@gmail.com**
 
-- I'm fluent in :es: Spanish UK English
+- I'm fluent in \uD83C\uDDEA\uD83C\uDDF8 Spanish UK English
 
 
 
