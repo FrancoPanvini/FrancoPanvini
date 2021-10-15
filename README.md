@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **francopanvini@gmail.com**
 
+- I'm fluent in ES Spanish UK English
+
 
 
 <h3 align="left">Connect with me:</h3>
