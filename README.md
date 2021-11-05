@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franco</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [AdogtameApp](https://adogtame.vercel.app/)
+- 🔭 I’m currently looking for a new job
 
 - 💬 Ask me about **JavaScript, React, Redux, NodeJS, Express, Sequelize**
 
