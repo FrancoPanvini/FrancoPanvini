@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Franco</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
-- 🔭 I’m currently looking for a new job
+- 🔭 I’m currently working in Savvy
 
-- 💬 Ask me about **JavaScript, React, Redux, NodeJS, Express, Sequelize**
+- 💬 Ask me about **JavaScript, Typescript, React, Redux, NodeJS, Express, Sequelize**
 
 - 📫 How to reach me **francopanvini@gmail.com**
 
