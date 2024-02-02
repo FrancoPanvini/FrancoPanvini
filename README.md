@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franco</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
-- 👷 I’m currently working in Savvy www.trysavvy.com
+- 👷 I’m currently working in Embeddables https://www.embeddables.com/
 
 - 💬 Ask me about **JavaScript, Typescript, React, Redux, NodeJS, Express, Sequelize**
 
